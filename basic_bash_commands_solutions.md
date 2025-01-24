@@ -1,8 +1,8 @@
 **Exercise 1**.
 ``bash
 place the command(s) here
-ls -la
 ```
+ls -la
 ```
 **Exercise 2**.  
 ``bash  
